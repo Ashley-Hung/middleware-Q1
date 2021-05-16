@@ -11,13 +11,13 @@ Demo：
 1. clone 此專案至本機電腦
 
    ```
-   $ git clone https://github.com/Ashley-Hung/middleware-Q2.git
+   $ git clone https://github.com/Ashley-Hung/middleware-Q1.git
    ```
 
 2. 安裝
 
    ```
-   $ cd middleware-Q2
+   $ cd middleware-Q1
    $ npm install
    ```
 
